@@ -3,7 +3,9 @@ Multipurpose discord bot.
 
 # How to Run:
 
-install discord.py
+install discord
+
+install python-dotenv
 
 # Resources:
 
